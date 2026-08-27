@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260827-203633-f9rd",
+      "title": "Venomnomnóm",
+      "commanders": [
+        "Venomnomnóm"
+      ],
+      "guild": {
+        "id": "60C1E029-6D92-F111-BB0A-02C03D08B4F1",
+        "name": "Project Continuum",
+        "tag": "Flux"
+      },
+      "dateStart": "2026-08-27T18:36:33.000Z",
+      "dateEnd": "2026-08-27T19:20:40.601Z",
+      "dateLabel": "27.8.2026, 20:36:33 - 27.8.2026, 21:20:40",
+      "url": "https://VenomnomnomGW2.github.io/Project_Content/?report=20260827-203633-f9rd",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 11,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 34
+      }
+    },
+    {
       "id": "20260823-212249-0rrk",
       "title": "Venomnomnóm",
       "commanders": [
