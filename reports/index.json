@@ -2,7 +2,46 @@
   "colorPalette": "gold-bronze",
   "glassSurfaces": true,
   "glassmorphic": false,
+  "axiDesign": false,
   "entries": [
+    {
+      "id": "20260924-212412-9qt1",
+      "title": "Venomnomnóm",
+      "commanders": [
+        "Venomnomnóm"
+      ],
+      "guild": {
+        "id": "DFC4F4C1-99CD-EE11-81B7-C3B1C0E42B51",
+        "name": "The Upper Echelons",
+        "tag": "KEKW"
+      },
+      "dateStart": "2026-09-24T19:24:12.000Z",
+      "dateEnd": "2026-09-24T20:01:27.696Z",
+      "dateLabel": "24.9.2026, 21:24:12 - 24.9.2026, 22:01:27",
+      "url": "https://VenomnomnomGW2.github.io/Project_Content/?report=20260924-212412-9qt1",
+      "summary": {
+        "borderlandsPct": 0.21052631578947367,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 20,
+            "color": "#64748b"
+          },
+          {
+            "name": "World vs World",
+            "value": 10,
+            "color": "#64748b"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 8,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 28
+      }
+    },
     {
       "id": "20260906-212335-oq4e",
       "title": "Venomnomnóm",
