@@ -5,6 +5,34 @@
   "axiDesign": false,
   "entries": [
     {
+      "id": "20260926-211657-6aq2",
+      "title": "Arthur Stonehenge",
+      "commanders": [
+        "Arthur Stonehenge"
+      ],
+      "guild": {
+        "id": "60C1E029-6D92-F111-BB0A-02C03D08B4F1",
+        "name": "Project Continuum",
+        "tag": "Flux"
+      },
+      "dateStart": "2026-09-26T19:16:57.000Z",
+      "dateEnd": "2026-09-26T20:06:27.506Z",
+      "dateLabel": "26.9.2026, 21:16:57 - 26.9.2026, 22:06:27",
+      "url": "https://venomnomnomgw2.github.io/Project_Content/?report=20260926-211657-6aq2",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 18,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 41,
+        "avgEnemySize": 41
+      }
+    },
+    {
       "id": "20260926-212956-73pf",
       "title": "Arthur Stonehenge",
       "commanders": [
