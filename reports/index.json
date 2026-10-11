@@ -3,7 +3,41 @@
   "axiTheme": "default",
   "glass": false,
   "glassSurfaces": false,
+  "generator": {
+    "app": "axibridge",
+    "version": "3.22.5"
+  },
   "entries": [
+    {
+      "id": "20261011-211813-ghpp",
+      "title": "Arthur Stonehenge, Venomnomnóm",
+      "commanders": [
+        "Arthur Stonehenge",
+        "Venomnomnóm"
+      ],
+      "guild": {
+        "id": "DFC4F4C1-99CD-EE11-81B7-C3B1C0E42B51",
+        "name": "The Upper Echelons",
+        "tag": "KEKW"
+      },
+      "dateStart": "2026-10-11T19:18:13.000Z",
+      "dateEnd": "2026-10-11T20:02:40.445Z",
+      "dateLabel": "11.10.2026, 21:18:13 - 11.10.2026, 22:02:40",
+      "url": "https://VenomnomnomGW2.github.io/Project_Content/?report=20261011-211813-ghpp",
+      "publishedBy": "VenomnomnomGW2",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 18,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 30
+      }
+    },
     {
       "id": "20261004-212219-2ql8",
       "title": "Venomnomnóm",
