@@ -5,9 +5,38 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.5"
+    "version": "3.22.9"
   },
   "entries": [
+    {
+      "id": "20261018-211458-tj8k",
+      "title": "Venomnomnóm",
+      "commanders": [
+        "Venomnomnóm"
+      ],
+      "guild": {
+        "id": "DFC4F4C1-99CD-EE11-81B7-C3B1C0E42B51",
+        "name": "The Upper Echelons",
+        "tag": "KEKW"
+      },
+      "dateStart": "2026-10-18T19:14:58.000Z",
+      "dateEnd": "2026-10-18T20:02:04.835Z",
+      "dateLabel": "18.10.2026, 21:14:58 - 18.10.2026, 22:02:04",
+      "url": "https://VenomnomnomGW2.github.io/Project_Content/?report=20261018-211458-tj8k",
+      "publishedBy": "VenomnomnomGW2",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 34,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 54
+      }
+    },
     {
       "id": "20261011-211813-ghpp",
       "title": "Arthur Stonehenge, Venomnomnóm",
