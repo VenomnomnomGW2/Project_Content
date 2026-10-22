@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261022-205742-xcz1",
+      "title": "Venomnomnóm",
+      "commanders": [
+        "Venomnomnóm"
+      ],
+      "guild": {
+        "id": "DFC4F4C1-99CD-EE11-81B7-C3B1C0E42B51",
+        "name": "The Upper Echelons",
+        "tag": "KEKW"
+      },
+      "dateStart": "2026-10-22T18:57:42.000Z",
+      "dateEnd": "2026-10-22T20:03:33.991Z",
+      "dateLabel": "22.10.2026, 20:57:42 - 22.10.2026, 22:03:33",
+      "url": "https://VenomnomnomGW2.github.io/Project_Content/?report=20261022-205742-xcz1",
+      "publishedBy": "VenomnomnomGW2",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 23,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 30
+      }
+    },
+    {
       "id": "20261018-211458-tj8k",
       "title": "Venomnomnóm",
       "commanders": [
