@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261101-204246-dlhi",
+      "title": "Venomnomnóm",
+      "commanders": [
+        "Venomnomnóm"
+      ],
+      "guild": {
+        "id": "DFC4F4C1-99CD-EE11-81B7-C3B1C0E42B51",
+        "name": "The Upper Echelons",
+        "tag": "KEKW"
+      },
+      "dateStart": "2026-11-01T19:42:46.000Z",
+      "dateEnd": "2026-11-01T20:45:53.126Z",
+      "dateLabel": "1.11.2026, 20:42:46 - 1.11.2026, 21:45:53",
+      "url": "https://VenomnomnomGW2.github.io/Project_Content/?report=20261101-204246-dlhi",
+      "publishedBy": "VenomnomnomGW2",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 25,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 25
+      }
+    },
+    {
       "id": "20261029-211443-0ok0",
       "title": "Venomnomnóm",
       "commanders": [
